@@ -7,8 +7,6 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Dart](https://dart.dev/guides)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🚀 Como executar
 
